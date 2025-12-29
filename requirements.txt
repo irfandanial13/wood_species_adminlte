@@ -1,0 +1,13 @@
+tensorflow==2.16.1
+scikit-learn
+pandas
+matplotlib
+seaborn
+jupyterlab
+protobuf==3.19.0
+numpy<2.0
+streamlit==1.14.0
+Pillow
+altair==4.2.2
+flask
+gunicorn
